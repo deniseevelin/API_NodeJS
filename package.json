@@ -1,0 +1,19 @@
+{
+  "name": "backend_nodejs_api_fabricadesinapse",
+  "version": "1.0.0",
+  "description": "API criada durante o curso de Backend em NodeJS com instrutor Paulo Salvatore da Fábrica de Sinapse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniseevelin/API_NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniseevelin/API_NodeJS/issues"
+  },
+  "homepage": "https://github.com/deniseevelin/API_NodeJS#readme"
+}
